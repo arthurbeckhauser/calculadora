@@ -1,0 +1,29 @@
+header{
+    background-color: rgb(34, 0, 158);
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    text-align: center;
+    padding: 25px;
+}
+
+body{
+    margin: 0%;
+}
+
+main{
+    text-align: center;
+}
+
+.i{
+    display: block;
+    text-align: center;
+}
+
+input{
+    margin: 15px;
+}
+
+button{
+    padding: 10px;
+    margin: 15px;
+}
